@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">finalTest</string>
+    <string-array name="array">
+        <item>Select</item>
+        <item>3</item>
+        <item>6</item>
+        <item>12</item>
+    </string-array>
+</resources>
